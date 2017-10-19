@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# About
+Edgescope is Dan Tanner’s Minneapolis-based business technology consulting company.
 
-You can use the [editor on GitHub](https://github.com/dtanner/edgescope/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Resume in 30 Seconds
+1997: Graduated with a degree in Computer Science / Information Systems.
+1998 – 1999: Learned some C and a little Java with some great mentors.
+Early 2000’s: Became a software journeyman, mostly writing in Java, with some .NET.
+Mid/late 2000’s: Continued to enjoy the technical software path, while expanding into other languages and investing in the non-technical facets of the trade.
+Currently: Still love programming, learning, and building new things. Grizzled veteran constantly humbled and excited to work in bright and talented environments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What I Do
+guide technology choices
+build craftsman-quality software
+solve performance problems
+design env|iron|ments
+help build effective teams
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dtanner/edgescope/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contact
+dan@edgescope.com
+@edgescope
