@@ -16,5 +16,5 @@ design env|iron|ments
 help build effective teams
 
 # Contact
-dan@edgescope.com
+dan@edgescope.com  
 @edgescope
